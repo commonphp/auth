@@ -6,5 +6,5 @@ namespace CommonPHP\Authentication\Contracts;
 
 interface IdentityProviderInterface
 {
-
+    public function findIdentity(string $identifier): ?IdentityInterface;
 }

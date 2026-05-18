@@ -35,6 +35,7 @@ Authentication failures should be represented with package-specific exceptions o
 
 ## Documentation
 
+- [Documentation index](docs/index.md)
 - [Usage](docs/usage.md)
 - [Testing](TESTING.md)
 - [Contributing](CONTRIBUTING.md)

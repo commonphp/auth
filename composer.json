@@ -16,7 +16,7 @@
   },
   "require": {
     "php": "^8.5",
-    "comphp/runtime": "^0.3",
+    "comphp/runtime": "^0.3.1",
     "comphp/security": "^0.3",
     "comphp/session": "^0.3"
   },
